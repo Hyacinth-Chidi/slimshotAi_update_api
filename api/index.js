@@ -9,6 +9,10 @@ const app = express();
 app.use(cors());
 
 // Health check
+
+app.get('/', (req, res) => {
+  res.json({ status: 'ok', service: 'SlimShotAI Update API' });
+});
 app.get('/api', (req, res) => {
   res.json({ status: 'ok', service: 'SlimShotAI Update API' });
 });

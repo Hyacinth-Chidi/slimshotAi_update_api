@@ -1,0 +1,13 @@
+{
+  "latestVersion": "1.0.0",
+  "latestBuildNumber": 1,
+  "forceUpdate": false,
+  "title": "SlimShotAI is up to date!",
+  "releaseNotes": [
+    "🚀 Initial release",
+    "📸 Image & Video compression",
+    "🧹 Smart cache management"
+  ],
+  "updateUrl": "https://play.google.com/store/apps/details?id=com.slimshot.ai",
+  "minSupportedVersion": "1.0.0"
+}

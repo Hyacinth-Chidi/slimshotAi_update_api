@@ -1,13 +1,13 @@
 {
-  "latestVersion": "1.0.0",
-  "latestBuildNumber": 1,
+  "latestVersion": "2.0.1",
+  "latestBuildNumber": 2,
   "forceUpdate": false,
-  "title": "SlimShotAI is up to date!",
+  "title": "Version 2.0 — Video Editor Update!",
   "releaseNotes": [
-    "🚀 Initial release",
-    "📸 Image & Video compression",
+    "🚀 New release",
+    "📸 Professional video Editing",
     "🧹 Smart cache management"
   ],
-  "updateUrl": "https://play.google.com/store/apps/details?id=com.slimshot.ai",
+  "updateUrl": "https://play.google.com/store/apps/details?id=com.techfamz.slimshotai",
   "minSupportedVersion": "1.0.0"
 }
